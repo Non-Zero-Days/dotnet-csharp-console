@@ -1,4 +1,4 @@
-## vs-code
+## .NET C# Console Application
 
 ### Prerequisites:
 
@@ -179,4 +179,4 @@ Note once again only the first argument will be used due to the use of 'args[0]'
 
 Run the code with an argument such as "Bunnies" and note the output. 
 
-Congratulations on a non-zero day!
+Congratulations on a Non-Zero Day!
