@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "dotnet-csharp-console": {
+      "commandName": "Project",
+      "commandLineArgs": "\"Non-Zero Days\""
+    }
+  }
+}
